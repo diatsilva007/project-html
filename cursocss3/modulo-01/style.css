@@ -1,3 +1,14 @@
+/*Seletor universal*/
 * {margin: 0%; padding: 0%; color: red;}
 
+/* seletor  tag*/
+h1 {color: blue; font-size: 50px;}
+
+/* seletor  tag*/
+p {color: green; font-size: 12px;}  
+
+
+
+/* seletor 
 h1 {color: blue; font-size: 60px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+*/
