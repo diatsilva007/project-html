@@ -1,15 +1,20 @@
+
+
+
 /*Seletor universal*/
-* {margin: 0%; padding: 0%;}
+/* {margin: 0%; padding: 0%;}*/
 
 /* seletor  tag*/
-h1 {color: blue; font-size: 50px;}
+/*h1 {color: blue; font-size: 50px;}*/
 
 /* seletor  tag*/
-p {color: green; font-size: 12px;}  
+/*p {color: green; font-size: 12px;}*/  
 
+/*
 input[type="text"]{width: 200px; background-color: #ccc; height: 35px; border: none; cursor: pointer; color: black;}
 input[type="email"]{width: 200px; background-color: #ccc; height: 35px; border: none; cursor: pointer; color: black;}
 input[type="submit"]{width: 50px; background-color: green; height: 35px; border: none; cursor: pointer; color: white;} 
+*/
 
 /* seletor 
 h1 {color: blue; font-size: 60px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
